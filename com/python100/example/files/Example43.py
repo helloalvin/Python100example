@@ -8,3 +8,10 @@
 
 """模仿静态变量(static)另一案例。"""
 
+
+from com.python100.example.files.ExampleBase import *
+
+class Example43(ExampleBase):
+    def execute(self):
+        pass
+
