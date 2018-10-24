@@ -12,5 +12,7 @@ from com.python100.example.files.ExampleBase import *
 
 class Example98(ExampleBase):
     def execute(self):
-        pass
-
+        strs = input('请输入字符串:')
+        fp = open('test', "w")
+        fp.write(strs.upper())
+        fp.close()

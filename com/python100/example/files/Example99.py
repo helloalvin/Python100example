@@ -12,5 +12,15 @@ from com.python100.example.files.ExampleBase import *
 
 class Example99(ExampleBase):
     def execute(self):
-        pass
-
+        fp1 = open('testfile/A', 'r')
+        result1 = fp1.read()
+        fp1.close()
+        fp2 = open('testfile/B', 'r')
+        result2 = fp2.read()
+        fp2.close()
+        result = result1 + result2
+        result = ''.join(sorted(result))
+        fp = open('testfile/C', 'w')
+        fp.write(result)
+        fp.close()
+        print('处理完毕，请查看testfile/C文件！')

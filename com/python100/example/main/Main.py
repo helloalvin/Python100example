@@ -101,6 +101,8 @@ from com.python100.example.files.Example100 import *
 from com.python100.example.files.TestUtils import *
 
 
+print('Hello，Man，Please open the comment object to Run!')
+
 #example1 = Example1()
 #example1.execute()
 
@@ -362,8 +364,29 @@ from com.python100.example.files.TestUtils import *
 #example92 = Example92()
 #example92.execute()
 
-example93 = Example93()
-example93.execute()
+#example93 = Example93()
+#example93.execute()
+
+#example94 = Example94()
+#example94.execute()
+
+#example95 = Example95()
+#example95.execute()
+
+#example96 = Example96()
+#example96.execute()
+
+#example97 = Example97()
+#example97.execute()
+
+#example98 = Example98()
+#example98.execute()
+
+#example99 = Example99()
+#example99.execute()
+
+#example100 = Example100()
+#example100.execute()
 
 #testutils = TestUtils()
 #testutils.execute()

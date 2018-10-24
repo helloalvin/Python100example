@@ -8,9 +8,10 @@
 
 """字符串日期转换为易读的日期格式"""
 from com.python100.example.files.ExampleBase import *
-
+from dateutil import parser
 
 class Example95(ExampleBase):
     def execute(self):
-        pass
+        dt = parser.parse("Oct 24 2018 11:00AM")
+        print(dt)
 
