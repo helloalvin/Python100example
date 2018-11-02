@@ -331,25 +331,25 @@
     实现类：  com.python100.example.files.Example93
     
     94.时间函数举例4,一个猜数游戏，判断一个人反应快慢
-    实现类：  com.python100.example.files.Example94(待完成)
+    实现类：  com.python100.example.files.Example94
     
     95.字符串日期转换为易读的日期格式
-    实现类：  com.python100.example.files.Example95(待完成)
+    实现类：  com.python100.example.files.Example95
     
     96.计算字符串中子串出现的次数
-    实现类：  com.python100.example.files.Example96(待完成)
+    实现类：  com.python100.example.files.Example96
     
     97.从键盘输入一些字符，逐个把它们写到磁盘文件上，直到输入一个 # 为止
-    实现类：  com.python100.example.files.Example97(待完成)
+    实现类：  com.python100.example.files.Example97
     
     98.从键盘输入一个字符串，将小写字母全部转换成大写字母，然后输出到一个磁盘文件"test"中保存
-    实现类：  com.python100.example.files.Example98(待完成)
+    实现类：  com.python100.example.files.Example98
     
     99.有两个磁盘文件A和B,各存放一行字母,要求把这两个文件中的信息合并(按字母顺序排列), 输出到一个新文件C中
-    实现类：  com.python100.example.files.Example99(待完成)
+    实现类：  com.python100.example.files.Example99
     
     100.列表转换为字典
-    实现类：  com.python100.example.files.Example100(待完成)
+    实现类：  com.python100.example.files.Example100
 
 
 
